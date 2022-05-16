@@ -2,3 +2,7 @@ Tesis de grado de TICS
 VENTA DE HELADOS DE DON PABLO
 
 Redacción del capitulo 1
+
+Redacción del capitulo 2
+	Análisis del sistema
+	Diseño del sistema

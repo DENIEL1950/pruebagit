@@ -4,3 +4,5 @@ Codificando c++
 funcion 1
 cuerpo de la funcion 1
 fin de la función 1
+
+Codificar función para imprimir los resultados
